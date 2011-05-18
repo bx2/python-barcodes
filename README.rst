@@ -4,7 +4,7 @@ pyBarcode
 This library provides a simple way to create barcodes using only the
 Python standardlib. The barcodes where created as SVG objects.
 
-Report bugs at http://bitbucket.org/whitie/pybarcode/issues/
+Report bugs at https://github.com/bx2/pyBarcode/issues
 
 
 Requirements
