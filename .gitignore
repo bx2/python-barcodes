@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*.sqlite
+*.pid
+*.pyc
+*.pyo
+
