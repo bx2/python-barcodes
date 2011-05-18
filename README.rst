@@ -1,5 +1,5 @@
-pyBarcode
-=========
+python-barcodes
+===============
 
 This library provides a simple way to create barcodes using only the
 Python standardlib. The barcodes where created as SVG objects.
@@ -32,7 +32,6 @@ EAN-8, EAN-13, UPC-A, JAN, ISBN-10, ISBN-13, ISSN, Code 39, PZN
 Todo
 ----
 
-    - Add documentation
     - Add more codes
 
 Usage
