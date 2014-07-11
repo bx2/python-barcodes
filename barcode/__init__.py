@@ -39,6 +39,7 @@ from barcode.codex import Code39, PZN
 from barcode.ean import EAN8, EAN13, JAN
 from barcode.isxn import ISBN10, ISBN13, ISSN
 from barcode.upc import UPCA
+from barcode.i2of5 import I2OF5
 
 
 __BARCODE_MAP = dict(
@@ -56,6 +57,7 @@ __BARCODE_MAP = dict(
     issn=ISSN,
     code39=Code39,
     pzn=PZN,
+    i2of5=I2OF5,
 )
 
 PROVIDED_BARCODES = __BARCODE_MAP.keys()
